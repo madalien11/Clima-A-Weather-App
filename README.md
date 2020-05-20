@@ -1,6 +1,7 @@
 # myclimaflutter
 
-A new Flutter application.
+Clima - A Weather App. Learned to get GPS location of the phone, network (make API calls to grab live data from the Internet) and Asynchronous Dart programming
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
